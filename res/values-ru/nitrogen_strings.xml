@@ -28,4 +28,6 @@
     <string name="summary_do_nothing">ничего не делать</string>
     <string name="summary_mute_ringer">выключить звонок</string>
     <string name="summary_dismiss_call">cбросить вызов</string>
+
+    <string name="msim_mobile_network_settings_title">Параметры SIM %d</string>
 </resources>

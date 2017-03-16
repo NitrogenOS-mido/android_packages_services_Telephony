@@ -33,4 +33,5 @@
     <string name="summary_mute_ringer">mute the ringer</string>
     <string name="summary_dismiss_call">dismiss the call</string>
 
+    <string name="msim_mobile_network_settings_title">SIM %d mobile network settings</string>
 </resources>
