@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+     Copyright (C) 2013 SlimRoms Project
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+          http://www.apache.org/licenses/LICENSE-2.0
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Setting title for the flip action setting. -->
+    <string name="flip_action_title">Převrácení telefonu</string>
+
+    <!-- Dialog title of the flip action setting. -->
+    <string name="flip_action_dialog_title">Volba akce\u2026</string>
+
+    <!-- Setting summary for the flip action setting. -->
+    <string name="flip_action_summary">Otočení telefonu čelní stranou dolů, <xliff:g id="action">%s</xliff:g></string>
+
+    <!-- Values for flip action array entries -->
+    <string name="entry_do_nothing">Nedělat nic</string>
+    <string name="entry_mute_ringer">Vypnout zvonění</string>
+    <string name="entry_dismiss_call">Zamítnout hovor</string>
+    <string name="summary_do_nothing">Nedělat nic</string>
+    <string name="summary_mute_ringer">Vypnout zvonění</string>
+    <string name="summary_dismiss_call">Zamítnout hovor</string>
+
+    <string name="msim_mobile_network_settings_title">Nastavení SIM %d</string>
+</resources>
